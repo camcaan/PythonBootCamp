@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 s=pd.Series([1,3,5,np.nan,6,8])
 print(s)
 
@@ -9,4 +10,4 @@ y= np.sin(x)
 
 plt.plot(x,y)
 plt.show()
-#ploting 
+#ploting the results 
