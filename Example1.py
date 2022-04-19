@@ -11,3 +11,4 @@ y= np.sin(x)
 plt.plot(x,y)
 plt.show()
 #ploting the results of the code by kamran khan, student at IHI university college london
+# I am stil trying to figure out the VScode with Git Gub
