@@ -10,4 +10,4 @@ y= np.sin(x)
 
 plt.plot(x,y)
 plt.show()
-#ploting the results 
+#ploting the results of the code by kamran 
